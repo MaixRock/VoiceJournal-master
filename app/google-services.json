@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "902484499546",
+    "firebase_url": "https://voicejournal-master.firebaseio.com",
+    "project_id": "voicejournal-master",
+    "storage_bucket": "voicejournal-master.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:902484499546:android:d578f121e1df0685",
+        "android_client_info": {
+          "package_name": "com.example.voicejournal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "902484499546-nm0b93228sdtdlos9446qqgm1uq6takt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.voicejournal",
+            "certificate_hash": "a2f5093cf8e6228e1174d798776c10fbcde7ff7d"
+          }
+        },
+        {
+          "client_id": "902484499546-qa382d18r4n18k2383qahsekjv9r1hc0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_KrmV2lNjGEkSlJ8HleZOfvs2KbMMhBQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "902484499546-qa382d18r4n18k2383qahsekjv9r1hc0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

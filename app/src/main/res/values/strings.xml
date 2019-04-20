@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">VС</string>
+    <string name="btnVoice"> </string>
+    <string name="tTemperature">Температура, С°</string>
+    <string name="tPressure">Давление, МПа</string>
+    <string name="tTime">Время</string>
+    <string name="ConsoleText"> </string>
+    <string name="tNumber">№</string>
+    <string name="tDebit">Дебит, т/сут</string>
+</resources>
